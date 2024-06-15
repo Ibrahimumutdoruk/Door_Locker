@@ -29,6 +29,10 @@ The objective of this project is to design and implement a door locker system on
     
     -   A reset button will allow the user to reset the state machine to its initial state and clear the register content.
     -   Upon pressing the reset button, all LEDs will turn off, and the system will be ready for a new password entry.
+    -   Parallel to serial shift register is used.
+Shematic
+      ![Screenshot 2024-06-15 125449](https://github.com/Ibrahimumutdoruk/Door_Locker/assets/91209884/32affdb8-aef7-4835-8ddd-72542625f5d0)
+
       
 
 
