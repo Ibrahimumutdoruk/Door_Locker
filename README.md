@@ -1,4 +1,4 @@
-#### Project Explanation
+#### Project Overview
 
 The objective of this project is to design and implement a door locker system on an FPGA board, utilizing a unique password derived from a student ID number. The student ID number, given in hexadecimal format, will be converted to binary and used as the password to control access.
 
