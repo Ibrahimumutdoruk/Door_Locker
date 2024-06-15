@@ -33,7 +33,7 @@ The objective of this project is to design and implement a door locker system on
   
 
    
-Shematic
+
       ![Screenshot 2024-06-15 125449](https://github.com/Ibrahimumutdoruk/Door_Locker/assets/91209884/32affdb8-aef7-4835-8ddd-72542625f5d0)
 
       
